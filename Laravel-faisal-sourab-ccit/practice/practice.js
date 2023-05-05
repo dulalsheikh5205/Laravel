@@ -1,0 +1,5 @@
+let students = require('./students.json')
+console.log(students[0].name)
+// console.log(studentJSON)
+// let std = JSON.parse(studentJSON)
+// console.log(std[1].roll)

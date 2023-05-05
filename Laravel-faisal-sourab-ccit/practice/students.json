@@ -1,0 +1,20 @@
+[
+    {
+    "name":"Habibur Rahman",
+    "fatherName":"Majedur Rahman",
+    "motherName":"Hamid",
+    "roll": 23
+    },
+    {
+        "name":"Dulal",
+        "fatherName":" Rahman",
+        "motherName":"Had",
+        "roll": 28
+    },
+    {
+        "name":"Jamal",
+        "fatherName":"samad",
+        "motherName":"Hamida",
+        "roll": 32
+    }
+]
